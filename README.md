@@ -1,2 +1,3 @@
-# A_star_aldorithm
-Exploring the A* algorithm with Regenerated Mazes
+This code exploring the A* algorithm with regenerated mazes using Python and Pygame
+
+Here's the video explaining how I did it:
