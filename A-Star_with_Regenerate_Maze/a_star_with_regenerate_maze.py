@@ -184,7 +184,7 @@ def main():
             draw_color(grid, start_cell, end_cell)
 
         pygame.display.flip()
-        clock.tick(60)
+        clock.tick(30)
 
 
 if __name__ == "__main__":
